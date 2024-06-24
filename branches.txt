@@ -1,0 +1,11 @@
+Conceito : É uma ramificação a partir do código fonte principal, separa as versões dos projetos.
+
+- git branch
+    Visualiza os branchs disponíveis. Usando o mesmo comando com um nome novo, CRIA UM NOVO BRANCH
+- git -d ou --delete
+    Deleta um branch (geralmente quando um branch foi criado errado)
+- git checkout -b <nome>
+    Muda para o branch passado após a flag / OBS: É necessário realizar o commit antes de mudar de branch 
+- git merge <nome>
+    Uni o código de dois branchs distintos / OBS: Por meio dele que recebe atualizações de outros devs
+    Necessário estar na branch que deseja atualizar o código e passar o comando com o nome da que deseja puxar as atualizações
