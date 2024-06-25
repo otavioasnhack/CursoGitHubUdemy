@@ -1,0 +1,4 @@
+- git fetch
+    Atualiza todos os branchs e tags que estão somente no repositório remoto e não no 'nosso' local.
+- git pull
+    Recebe atualizações do repositório remoto e cada branch pode ser atualizado pelo mesmo comando.
