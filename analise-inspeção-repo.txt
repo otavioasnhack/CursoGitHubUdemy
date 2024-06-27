@@ -1,0 +1,9 @@
+- git show / git show <tag>
+    Apresenta informações(detalhes) do branch atual e seus commits(logs detalhados), as modificações de arquivos entre cada commit / Exibi informações(detalhes) de tags.
+
+- git diff / git diff <arquivo><arquivo_b>
+    Exibi diferenças de um branch, as diferenças do branch atual com o remoto serão exibidas no terminal. / verifica as diferenças entre os arquivos.
+
+- git shortlog
+    Apresenta um log resumido do projeto, cada commit será unido por nome do autor. Sendo possível ver quais commits foram enviados e por quem.
+    
