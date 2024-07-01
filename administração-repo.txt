@@ -1,0 +1,18 @@
+- git clean
+    verifica e limpa arquivos untracked, todos que você não utilizou 'git add'. Utilizado para arquivos que são gerados automaticamente.
+    A flag -f é usado para força bruta quando somente o comando não for suficiente.
+
+- git gc (garbage collector)
+    Otimiza o repositório, identificando arquivos que não são mais necessários e os excluindo.
+
+- git fsck (File System Check)
+    Verifica a integridade dos arquivos e sua conectividade(possíveis corrupções).
+    Serve como um comando de rotina, para verificar se está tudo ok.
+
+- git reflog
+    Mapea todos os passos no repositório(até uma mudança de branch é inserida neste log).
+    Ficam salvos até expirar(30 dias). 
+
+- git archive (comprimindo o repositório)
+    Transforma o repositório em um arquivo compactado; EX: git archive --format zip --output master_files.zip master
+    Assim a master vai estar zipada no arquivo master_files.zip
