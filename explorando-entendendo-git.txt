@@ -1,0 +1,16 @@
+Explorando e entendendo GitHub 
+- Criando repositório pelo site do GitHub e explicações sobre o conteúdo do painel principal.
+- Aba Code (informações do código fonte), checar documentação pelo Read.me, detalhes da licença do projeto.
+- Aba Issue (criar tarefas ou possíveis bugs), ciencia do que fazer ou corrigir, pode usar o Markdown e deve ter um label e um responsável.
+- Aba Pull Request (onde os colaboradores enviam código para resolver issues ou adc novas func), passa por análise.
+- Aba Actions (cria automatizações de deploy com integração em outros serviços), incluindo CI/CD, podemos criar uma rotina de atualizar a master automaticamente e outros processos.
+- Aba Projects (cria um projeto e utiliza um quadro de tarefas, conhecido como Kanban).
+- Aba Wiki (cria documentação mais extensa para o projeto), descreve funcionalidades, bugs conhecidos e não solucionados(repositório de conhecimento sobre o projeto).
+- Aba Insights (informações detalhadas do projeto), contribuidores, commits, forks, sendo interessante para ver a evolução do projeto desde o início.
+- Aba Settings (Configurações do projeto), alterar o nome do repo, remover/add features, add colaboradores.
+
+Criando Gist
+- São pequenos blocos de código que podem ser hospedados no GitHub, pode armazenar uma solução interessante, o link pode ser compartilhado.
+
+Encontrando repositórios
+- Podemos encontrar repositórios interessantes, códigos de devs experientes, pode dar STAR nos projetos que curtiu ou FORK no que deseja continuar em um repositório próprio.
