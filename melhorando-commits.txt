@@ -1,0 +1,7 @@
+Commits
+
+- A ideia é deixar os commits mais 'objetivos' para manutenção a longo prazo do projeto.
+- Sendo mais produtivo a consulta dos logs.
+- Há uma solução chamada private branches, cria uma branch que não será compartilhada no repositório.
+- Logo após pode ser feito um rebase, git rebase <branch atual> <funcionalidade> -i.
+- Escolhe uma delas para exclusão(squash) e renomear com(reword).
