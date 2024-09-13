@@ -1,0 +1,28 @@
+Principais comandos Github!
+
+- git init
+    Inicializa o repositório
+- git status
+    Verifica as mudanças do projeto
+- git add .
+    Adiciona arquivos novos ao repositório 
+- git commit
+    Salva as alterações realizadas  / flag -a = Vários arquivos de uma vez / flag -m = Adiciona mensagem ao arquivo
+- git push
+    Enviar o código para o repositório remoto
+- git pull
+    Busca atualização no repositório remoto para atualizar o repositório local (pc pessoal)
+- git clone
+    Baixa um repositório de um servidor remoto para o local (pc pessoal), passando a URL do mesmo junto ao comando
+- git rm
+    Deleta o arquivo do repositório remoto e do local.
+- git log
+    Verifica os commits realizados com as informações do mesmo
+- git mv
+    Move ou renomea o arquivo e o anterior é excluido (ctrl x)
+- git checkout
+    Retorna ao estado original e após o comando o mesmo sai do staging (junto com o nome do arquivo que deseja ignorar as alterações)
+- .gitignore
+    Cria um arquivo com o nome(gitignore) na raiz do projeto e inserir o nome dos arquivos a serem ignorados pelo git
+- git reset
+    Reseta as mudanças feitas (commitadas ou pendentes) / Geralmente usando a flag --hard
